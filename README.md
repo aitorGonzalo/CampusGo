@@ -1,2 +1,2 @@
 # CampusGo
-Android APP rutas al campus de la UPV
+Archivos php del proyecto
