@@ -12,8 +12,7 @@ Desarrollar una app intuitiva y funcional que permita a los usuarios:
 - Elegir entre distintos medios de transporte disponibles:
   - 🚶 Caminata a pie
   - 🚲 Bicicleta (usando datos de carriles bici - bidegorris)
-  - 🚌 Autobús urbano (datos abiertos de Tuvisa)
-  - 🚋 Tranvía (opcional, con datos de Euskotren si disponibles)
+  - 🚌 Autobús urbano (datos abiertos de Tuvisa
 
 La aplicación también contempla funcionalidades extra como:
 
